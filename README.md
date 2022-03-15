@@ -1,2 +1,2 @@
-# Progr2Rebeca
-General
+Rebeca V Paredes A
+Ingeniería telemàtica
